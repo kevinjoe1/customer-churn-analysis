@@ -56,8 +56,7 @@ customer-churn-analysis/
 - Average Monthly Charges  
 - Churn by Contract Type  
 
-![Page 1](images/dashboard_page1.png)
-
+![Dashboard Page 1](data/sql/powerbi/images/Screenshot%202025-11-19%20143553.png)
 ---
 
 ## **📌 Page 2 — Churn Drivers**
@@ -66,7 +65,7 @@ customer-churn-analysis/
 - Churn by Payment Method  
 - Monthly Charges by Churn Flag  
 
-![Page 2](images/dashboard_page2.png)
+![Dashboard Page 3](data/sql/powerbi/images/Screenshot%202025-11-19%20143626.png)
 
 ---
 
@@ -75,7 +74,7 @@ customer-churn-analysis/
 - High-Risk by Tech Support  
 - Churn Risk Score Distribution  
 
-![Page 3](images/dashboard_page3.png)
+![Dashboard Page 2](data/sql/powerbi/images/Screenshot%202025-11-19%20143616.png)
 
 ---
 
