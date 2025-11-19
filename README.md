@@ -13,7 +13,7 @@ The goal is to help companies **reduce churn**, **understand churn drivers**, an
 ## 🧰 Tools & Technologies  
 - **Power BI** (Dashboards & Visuals)  
 - **SQLite / SQL** (Views, data transformation)  
-- **Python** (Cleaning & calculations)  
+- **Python** (Initial few cleaning & calculations)  
 - **Excel** (Exploration)  
 - **GitHub** (Documentation & versioning)
 
